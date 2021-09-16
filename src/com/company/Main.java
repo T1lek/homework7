@@ -10,7 +10,7 @@ public class Main {
 
         for (int i = 0; i < superHero.length; i++) {
             superHero[i].applySuperAbility("Warrior применил суперспособность CRITICAL DAMAGE");
-            break;
+            
         }
     }
 }
